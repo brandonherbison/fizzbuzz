@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz
+/Users/brandonherbison/workspace/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.deps.json
+/Users/brandonherbison/workspace/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.dll
+/Users/brandonherbison/workspace/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.pdb
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.dll
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/refint/fizzbuzz.dll
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.pdb
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/fizzbuzz/obj/Debug/net7.0/ref/fizzbuzz.dll
